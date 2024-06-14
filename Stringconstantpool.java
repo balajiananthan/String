@@ -5,7 +5,7 @@ public class Stringconstantpool {
 		String s1=new String("jav");
 		String s2=new String ("java");
 	
-	String s3="jav";
+	String s3="jav";  //String constanst pool
     s1=s1+"a";
 	String s4= "java";
 	String s5=" javaprogram";
